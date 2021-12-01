@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 28\\Algoritmo 28\\Algoritmo 28.csproj": {}
+    "C:\\Users\\SENA\\source\\repos\\Algoritmo 29\\Algoritmo 29\\Algoritmo 29.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 28\\Algoritmo 28\\Algoritmo 28.csproj": {
+    "C:\\Users\\SENA\\source\\repos\\Algoritmo 29\\Algoritmo 29\\Algoritmo 29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 28\\Algoritmo 28\\Algoritmo 28.csproj",
-        "projectName": "Algoritmo 28",
-        "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 28\\Algoritmo 28\\Algoritmo 28.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\source\\repos\\Algoritmo 29\\Algoritmo 29\\Algoritmo 29.csproj",
+        "projectName": "Algoritmo 29",
+        "projectPath": "C:\\Users\\SENA\\source\\repos\\Algoritmo 29\\Algoritmo 29\\Algoritmo 29.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 28\\Algoritmo 28\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\source\\repos\\Algoritmo 29\\Algoritmo 29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
