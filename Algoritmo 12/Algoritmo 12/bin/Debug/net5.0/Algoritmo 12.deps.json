@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Algoritmo 12/1.0.0": {
+        "runtime": {
+          "Algoritmo 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritmo 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
