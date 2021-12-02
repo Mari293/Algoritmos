@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\SENA\\.nuget\\packages\\": {}
+    "C:\\Users\\mariana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\Algoritmo 30.csproj",
+      "projectUniqueName": "C:\\Users\\mariana\\OneDrive\\Escritorio\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\Algoritmo 30.csproj",
       "projectName": "Algoritmo 30",
-      "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\Algoritmo 30.csproj",
-      "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\obj\\",
+      "projectPath": "C:\\Users\\mariana\\OneDrive\\Escritorio\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\Algoritmo 30.csproj",
+      "packagesPath": "C:\\Users\\mariana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mariana\\OneDrive\\Escritorio\\Algoritmos\\Algoritmo 30\\Algoritmo 30\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

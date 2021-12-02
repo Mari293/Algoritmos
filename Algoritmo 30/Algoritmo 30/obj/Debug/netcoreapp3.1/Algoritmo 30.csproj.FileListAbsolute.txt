@@ -11,3 +11,17 @@ C:\Users\SENA\Desktop\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3
 C:\Users\SENA\Desktop\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.dll
 C:\Users\SENA\Desktop\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.pdb
 C:\Users\SENA\Desktop\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.genruntimeconfig.cache
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.exe
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.deps.json
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.runtimeconfig.json
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.runtimeconfig.dev.json
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.dll
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\bin\Debug\netcoreapp3.1\Algoritmo 30.pdb
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.csproj.AssemblyReference.cache
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.AssemblyInfoInputs.cache
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.AssemblyInfo.cs
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.csproj.CoreCompileInputs.cache
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.dll
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.pdb
+C:\Users\mariana\OneDrive\Escritorio\Algoritmos\Algoritmo 30\Algoritmo 30\obj\Debug\netcoreapp3.1\Algoritmo 30.genruntimeconfig.cache
